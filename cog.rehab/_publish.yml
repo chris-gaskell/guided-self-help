@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 74d50828-a00b-4d07-b164-c709b1f76fa7
+      url: 'https://iridescent-croissant-cc31f9.netlify.app'
