@@ -1,0 +1,18 @@
+# Welcome! {.unnumbered}
+
+This is the online guide book for your cognitive rehabilitation program.
+
+This has been put together by the neuropsychology department in Stoke-on-Trent, UK.
+
+If there are any problems in accessing this resource the please contact the service on 00000000
+
+## Course Overview
+
+| Chapter   | Topic                        |
+|-----------|------------------------------|
+| Chapter 1 | Overview of Cognition        |
+| Chapter 2 | Overview of Memory           |
+| Chapter 3 | Internal Strategies          |
+| Chapter 4 | External Strategies          |
+| Chapter 5 | Mood & Cognitive Functioning |
+| Chapter 6 | Keeping Well                 |
